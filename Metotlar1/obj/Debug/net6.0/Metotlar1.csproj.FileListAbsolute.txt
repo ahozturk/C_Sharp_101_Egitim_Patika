@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Metotlar1\bin\Debug\net6.0\Metotlar1.exe
+C:\Users\osaha\Desktop\Patika\Metotlar1\bin\Debug\net6.0\Metotlar1.deps.json
+C:\Users\osaha\Desktop\Patika\Metotlar1\bin\Debug\net6.0\Metotlar1.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Metotlar1\bin\Debug\net6.0\Metotlar1.dll
+C:\Users\osaha\Desktop\Patika\Metotlar1\bin\Debug\net6.0\Metotlar1.pdb
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.dll
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\refint\Metotlar1.dll
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.pdb
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\Metotlar1.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Metotlar1\obj\Debug\net6.0\ref\Metotlar1.dll

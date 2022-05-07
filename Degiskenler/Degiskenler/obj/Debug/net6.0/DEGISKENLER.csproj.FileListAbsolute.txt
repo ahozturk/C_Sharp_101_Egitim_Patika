@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\bin\Debug\net6.0\DEGISKENLER.exe
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\bin\Debug\net6.0\DEGISKENLER.deps.json
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\bin\Debug\net6.0\DEGISKENLER.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\bin\Debug\net6.0\DEGISKENLER.dll
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\bin\Debug\net6.0\DEGISKENLER.pdb
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.dll
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\refint\DEGISKENLER.dll
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.pdb
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\DEGISKENLER.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\DEGISKENLER\Degiskenler\obj\Debug\net6.0\ref\DEGISKENLER.dll

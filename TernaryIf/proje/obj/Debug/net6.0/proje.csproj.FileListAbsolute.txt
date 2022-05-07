@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\bin\Debug\net6.0\proje.exe
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\bin\Debug\net6.0\proje.deps.json
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\bin\Debug\net6.0\proje.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\bin\Debug\net6.0\proje.dll
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\bin\Debug\net6.0\proje.pdb
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.dll
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\refint\proje.dll
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.pdb
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\proje.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\TernaryIf\proje\obj\Debug\net6.0\ref\proje.dll

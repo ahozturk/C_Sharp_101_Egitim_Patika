@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Donguler2\bin\Debug\net6.0\Donguler2.exe
+C:\Users\osaha\Desktop\Patika\Donguler2\bin\Debug\net6.0\Donguler2.deps.json
+C:\Users\osaha\Desktop\Patika\Donguler2\bin\Debug\net6.0\Donguler2.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Donguler2\bin\Debug\net6.0\Donguler2.dll
+C:\Users\osaha\Desktop\Patika\Donguler2\bin\Debug\net6.0\Donguler2.pdb
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.dll
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\refint\Donguler2.dll
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.pdb
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\Donguler2.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Donguler2\obj\Debug\net6.0\ref\Donguler2.dll

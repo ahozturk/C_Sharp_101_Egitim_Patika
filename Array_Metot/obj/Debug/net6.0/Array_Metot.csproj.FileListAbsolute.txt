@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Array_Metot\bin\Debug\net6.0\Array_Metot.exe
+C:\Users\osaha\Desktop\Patika\Array_Metot\bin\Debug\net6.0\Array_Metot.deps.json
+C:\Users\osaha\Desktop\Patika\Array_Metot\bin\Debug\net6.0\Array_Metot.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Array_Metot\bin\Debug\net6.0\Array_Metot.dll
+C:\Users\osaha\Desktop\Patika\Array_Metot\bin\Debug\net6.0\Array_Metot.pdb
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.dll
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\refint\Array_Metot.dll
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.pdb
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\Array_Metot.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Array_Metot\obj\Debug\net6.0\ref\Array_Metot.dll
