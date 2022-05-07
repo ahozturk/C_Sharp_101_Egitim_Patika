@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\bin\Debug\net6.0\Uygulama2.exe
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\bin\Debug\net6.0\Uygulama2.deps.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\bin\Debug\net6.0\Uygulama2.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\bin\Debug\net6.0\Uygulama2.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\bin\Debug\net6.0\Uygulama2.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\refint\Uygulama2.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\Uygulama2.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Odev1\Uygulama2\obj\Debug\net6.0\ref\Uygulama2.dll
