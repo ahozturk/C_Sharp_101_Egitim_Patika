@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\bin\Debug\net6.0\MathDateTime.exe
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\bin\Debug\net6.0\MathDateTime.deps.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\bin\Debug\net6.0\MathDateTime.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\bin\Debug\net6.0\MathDateTime.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\bin\Debug\net6.0\MathDateTime.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\refint\MathDateTime.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\MathDateTime.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\MathDateTime\obj\Debug\net6.0\ref\MathDateTime.dll
