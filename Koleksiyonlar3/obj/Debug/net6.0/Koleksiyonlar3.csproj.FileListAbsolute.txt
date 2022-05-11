@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\bin\Debug\net6.0\Koleksiyonlar3.exe
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\bin\Debug\net6.0\Koleksiyonlar3.deps.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\bin\Debug\net6.0\Koleksiyonlar3.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\bin\Debug\net6.0\Koleksiyonlar3.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\bin\Debug\net6.0\Koleksiyonlar3.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\refint\Koleksiyonlar3.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\Koleksiyonlar3.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Koleksiyonlar3\obj\Debug\net6.0\ref\Koleksiyonlar3.dll
