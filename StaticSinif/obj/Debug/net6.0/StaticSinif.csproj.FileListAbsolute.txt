@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\bin\Debug\net6.0\StaticSinif.exe
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\bin\Debug\net6.0\StaticSinif.deps.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\bin\Debug\net6.0\StaticSinif.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\bin\Debug\net6.0\StaticSinif.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\bin\Debug\net6.0\StaticSinif.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\refint\StaticSinif.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\StaticSinif.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\StaticSinif\obj\Debug\net6.0\ref\StaticSinif.dll
