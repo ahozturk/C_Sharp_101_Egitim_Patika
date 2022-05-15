@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\bin\Debug\net6.0\Kalitim.exe
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\bin\Debug\net6.0\Kalitim.deps.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\bin\Debug\net6.0\Kalitim.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\bin\Debug\net6.0\Kalitim.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\bin\Debug\net6.0\Kalitim.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\refint\Kalitim.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\Kalitim.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\Kalitim\obj\Debug\net6.0\ref\Kalitim.dll
