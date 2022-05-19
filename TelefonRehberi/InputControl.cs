@@ -51,6 +51,9 @@ namespace Phonebook // Note: actual namespace depends on the project name.
                 case 5:
                     Operations.SearchPerson();
                     break;
+                default:
+                    Console.WriteLine("You can only enter valid answers!");
+                    break;
             }
         }
     }
