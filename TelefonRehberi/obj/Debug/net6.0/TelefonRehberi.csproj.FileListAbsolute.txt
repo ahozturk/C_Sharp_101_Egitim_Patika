@@ -1,0 +1,15 @@
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.exe
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.deps.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.runtimeconfig.json
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\refint\TelefonRehberi.dll
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.pdb
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.genruntimeconfig.cache
+C:\Users\osaha\Desktop\Patika\Egitim_Patika\TelefonRehberi\obj\Debug\net6.0\ref\TelefonRehberi.dll
