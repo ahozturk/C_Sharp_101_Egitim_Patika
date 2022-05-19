@@ -4,9 +4,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
 {
     public class Animals
     {
-        public void Move()
+        protected void Move()
         {
             Console.WriteLine("Animals can move");
+        }
+
+        public virtual void Reflect()
+        {
+            Console.WriteLine("Animals can reflect");
         }
 
         public int footCount;

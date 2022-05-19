@@ -12,6 +12,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Birds can fly");
         }
 
+        
+        public override void Reflect()
+        {
+            base.Reflect();
+            Console.WriteLine("If you touch birds they will run.");
+        }
+
         public Birds()
         {
             base.footCount = 2;

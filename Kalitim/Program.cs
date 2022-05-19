@@ -14,6 +14,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             dog.footCount = 4;//Animal Class
             dog.Paw();//Cat Class
             dog.Move();//Animal Class
+            dog.Reflect();//Animal Class but Overrided
         }
     }
 }
