@@ -12,7 +12,12 @@ class Solution {
         t *= 3;
 
         if(t != y){
-            Console.WriteLine("Bu sayılar farklı!");
+            Console.WriteLine("Hakan \t Bu sayılar farklı!");
+            
+            Console.WriteLine("Hakan");
+            Console.WriteLine("Hakan \t Bu sayılar farklı!");
+            Console.WriteLine("Hakan \t Bu sayılar farklı!");
+            Console.WriteLine("Hakan \t Bu sayılar farklı!");
         }
 
         bool kofte = true, ekmek = false;

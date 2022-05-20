@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osaha\\Desktop\\Patika\\DEGISKENLER\\Degiskenler\\DEGISKENLER.csproj",
+      "projectUniqueName": "C:\\Users\\osaha\\Desktop\\Patika\\Egitim_Patika\\Degiskenler\\Degiskenler\\DEGISKENLER.csproj",
       "projectName": "DEGISKENLER",
-      "projectPath": "C:\\Users\\osaha\\Desktop\\Patika\\DEGISKENLER\\Degiskenler\\DEGISKENLER.csproj",
+      "projectPath": "C:\\Users\\osaha\\Desktop\\Patika\\Egitim_Patika\\Degiskenler\\Degiskenler\\DEGISKENLER.csproj",
       "packagesPath": "C:\\Users\\osaha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osaha\\Desktop\\Patika\\DEGISKENLER\\Degiskenler\\obj\\",
+      "outputPath": "C:\\Users\\osaha\\Desktop\\Patika\\Egitim_Patika\\Degiskenler\\Degiskenler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
